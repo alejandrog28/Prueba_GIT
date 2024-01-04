@@ -1,3 +1,12 @@
+/*
+*************************
+Servidor WEB BASICO 
+
+Rev 1.0 ----> 04/01/2024
+*************************
+*/
+
+
 #include <ESP8266WiFi.h>
 
 //Información de nuestro WIFI
